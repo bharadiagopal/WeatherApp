@@ -1,0 +1,6 @@
+framework module Pods_LeftShiftDemo {
+  umbrella header "Pods-LeftShiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
